@@ -16,9 +16,12 @@ Figma est un outil de conception graphique et d'interface utilisateur très popu
 
 ---
 
-# Week 1 
-> [!Note] Toile: 
-   C'est l'espace de travail principal dans Figma où vous allez créer vos designs. Vous pouvez créer des pages multiples sur la toile pour organiser votre travail.
+<details>
+
+<summary>Week 1</summary> 
+
+> ## Toile
+>>C'est l'espace de travail principal dans Figma où vous allez créer vos designs. Vous pouvez créer des pages multiples sur la toile pour organiser votre travail.
    
 - [ ] [Apprendre à naviguer dans l'interface de figma](https://www.youtube.com/watch?v=e68PKFYWfoQ&t=1264s)
 - [ ] familiariser avec les outils de design de bases comme: les formes, les lignes et les textes.
@@ -27,8 +30,8 @@ Figma est un outil de conception graphique et d'interface utilisateur très popu
 > [!Warning] [faire un projet qui porte sur l'utilisation de la toile](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
 
 
-> [!Note] Les calques 
- Les calques vous permettent de diviser votre design en différentes parties, vous aidant ainsi à les organiser et à les manipuler. Figma utilise une hiérarchie de calques pour permettre des interactions entre eux.
+> ## Les calques 
+>>Les calques vous permettent de diviser votre design en différentes parties, vous aidant ainsi à les organiser et à les manipuler. Figma utilise une hiérarchie de calques pour permettre des interactions entre eux.
  
 - [ ] [Creer , organiser et manipuler les calques](https://www.youtube.com/watch?v=pAEEvbynJXM)  
 - [ ] comment utiliser la hiérachie des calques pour organiser les designs 
@@ -36,16 +39,16 @@ Figma est un outil de conception graphique et d'interface utilisateur très popu
 
 > [!Warning] Faire un projet qui porte sur les calques 
 	
-> [!Note] Les formes 
-Les formes sont les éléments de base que vous allez utiliser pour créer votre design. Elles peuvent être des rectangles, des cercles, des triangles, des lignes, des étoiles et bien d'autres.
+> ## Les formes 
+>>Les formes sont les éléments de base que vous allez utiliser pour créer votre design. Elles peuvent être des rectangles, des cercles, des triangles, des lignes, des étoiles et bien d'autres.
 - [ ] [creer , modifier les formes de bases](https://www.youtube.com/watch?v=iHz7l7E-0go) 
 - [ ] [apprenez comment modifier les propriétés des formes : la couleur , la tailles , les bordures](https://youtu.be/gOfdEnR5HDg)
 - [ ]     [Aprenez à utiliser les fonctions de duplication, modifications de formes pour creer des designs plus rapidement](https://www.youtube.com/watch?v=zcaNDsQLaDg) 
 
 > [!Warning] Un projet qui permet de memoriser les Les formes	
 
->[!Note] Les styles 
-Les styles vous permettent de créer des éléments de design cohérents en appliquant des attributs tels que la couleur, la police de caractères et les effets à des éléments récurrents.
+> ## Les styles 
+>>Les styles vous permettent de créer des éléments de design cohérents en appliquant des attributs tels que la couleur, la police de caractères et les effets à des éléments récurrents.
 	
 - [ ] Apprenez à creer des styles de couleurs et de topographies pour mes designs 
 - [ ] comment utiliser les styles de calques pour appliquer des effets tels que les ombres, des biseaux et des reflets à vos designs
@@ -53,8 +56,8 @@ Les styles vous permettent de créer des éléments de design cohérents en appl
 
   > [!Warning ] mettre les compétences des styles en jeu
   
->[!Note] Les composants 
-aLes composants sont des éléments de design réutilisables qui vous permettent de créer des designs cohérents et efficaces. Vous pouvez les modifier à partir d'un seul endroit et les mises à jour seront appliquées à tous les endroits où ils sont utilisés.
+> ## Les composants 
+>>aLes composants sont des éléments de design réutilisables qui vous permettent de créer des designs cohérents et efficaces. Vous pouvez les modifier à partir d'un seul endroit et les mises à jour seront appliquées à tous les endroits où ils sont utilisés.
 
 - [ ] [apprenez à creer des composants](https://youtu.be/Pip1uFrB8II) 
 - [ ] [comment utilisé des composants pour creer des designs cohérents et efficaces](https://www.youtube.com/watch?v=oNKTHqtwPuY&list=PLGwYGrNV4YO-juBqy0geZemATwjH5340d&index=5)
@@ -63,8 +66,8 @@ aLes composants sont des éléments de design réutilisables qui vous permettent
 
 > [!Warning] Projet portant sur les composants 
  
- >[!Note] Les grilles
- >Les grilles vous aident à aligner les éléments de votre design et à créer une structure cohérente pour votre mise en page. Figma propose une variété de types de grilles, tels que les grilles de colonnes et les grilles de ligne.
+ > ## Les grilles
+ >>Les grilles vous aident à aligner les éléments de votre design et à créer une structure cohérente pour votre mise en page. Figma propose une variété de types de grilles, tels que les grilles de colonnes et les grilles de ligne.
 
 - [ ] apprenez à utiliser les grilles pour aligner les éléments de son design 
 - [ ]  comment utiliser des grilles de colonnes pour effectuer une mise en page complexe 
@@ -73,8 +76,8 @@ aLes composants sont des éléments de design réutilisables qui vous permettent
 > [!Warning] porjet portant sur les composants
 > 
   
-> [!Note] Les prototypes 
->Figma permet de créer des prototypes interactifs de vos designs. Vous pouvez ajouter des liens entre les éléments de votre design pour créer des interactions telles que les boutons de navigation ou les menus déroulants
+> ## Les prototypes 
+>>Figma permet de créer des prototypes interactifs de vos designs. Vous pouvez ajouter des liens entre les éléments de votre design pour créer des interactions telles que les boutons de navigation ou les menus déroulants
 
 
 - [ ] ajout des liens entre les prototypes pour rendre le design interractifs. 
